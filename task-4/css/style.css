@@ -1,9 +1,9 @@
 body {
-  background-color: #2f1b1a;
+  background-color: #FFFFFF;
   margin: 0 auto;
 }
 #navbar {
-  background-color: #533262;
+  background-color: #625C5C;
   height: 80px;
   display: flex;
   align-items: center;
@@ -25,6 +25,10 @@ body {
   color: white;
 }
 #profile-container {
-  width: 250px;
+  width: auto;
   float: right;
+}
+#profile-container > img {
+  height: 60px;
+  border-radius: 50%;
 }
