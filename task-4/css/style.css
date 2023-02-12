@@ -1,13 +1,14 @@
 body {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   margin: 0 auto;
 }
 #navbar {
-  background-color: #625C5C;
+  background-color: #625c5c;
   height: 80px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border-bottom: 1px solid #ffffff;
 }
 #logo-container {
   width: 300px;
@@ -18,7 +19,7 @@ body {
 }
 #logo-container img {
   height: 60px;
-  margin: right: 15px;
+  margin-right: 15px;
 }
 #logo-container h2 {
   display: inline-block;
@@ -32,3 +33,135 @@ body {
   height: 60px;
   border-radius: 50%;
 }
+.main {
+  height: calc(100vh-81px);
+  position: relative;
+  overflow: hidden;
+}
+#sidebar {
+  background-color: #625c5c;
+  height: 100%;
+  width: 150px;
+  float: left;
+}
+#container > h2 {
+  color: #555;
+  margin: 0;
+  text-decoration: underline;
+}
+#container {
+  padding: 15px;
+  float: left;
+  width: calc(100vw - 180px);
+}
+.green-pg {
+  background-color: #067c4e;
+}
+.purple-pg {
+  background-color: #74598e;
+}
+.red-pg {
+  background-color: #922f12;
+}
+.cyan-pg {
+  background-color: #107198;
+}
+#tile-container {
+  display: flex;
+}
+.tile {
+  height: 200px;
+  width: calc(100% / 4);
+  display: flex;
+  justify-content: center;
+  height: 200px;
+}
+.tile h2,
+.tile h3 {
+  color: white;
+}
+.tile,
+.circle,
+.chart {
+  width: calc((100%) / 4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+}
+.circle,
+.chasrt {
+  height: calc((100vw-180px) / 4);
+}
+.circle {
+  border-radius: 50%;
+}
+#tile-container > div {
+  margin: right 15px;
+  height: calc(100vm 180px) / 4);
+}
+.circle {
+  border-radius: 50px;
+}
+#tile-container > div,
+#circle-container > div {
+  margin-right: 15px;
+}
+#tile-container > div:last-child,
+#circle-container > div:last-child {
+  margin: right 0;
+  align-items:center;
+}
+.inner-one h2, .inner-four h2 {
+  color: #fff;
+}
+.inner-two {
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+.inner-two h2 {
+  color: #555;
+}
+.inner-three {
+  width: 90%;
+  height: 90%;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff7262;
+}
+.inner-four {
+  width: 70%;
+  height: 70%;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bar {
+  height: 100%;
+  width: 15px;
+  position: absolute;
+}
+.chart {
+  position: relative;
+}
+.one {
+  left: 0;
+}
+.two {
+  left: 25px;
+}
+.three {
+  left: 50px;
+}
+.four {
+  left: 75px;
+}
+
