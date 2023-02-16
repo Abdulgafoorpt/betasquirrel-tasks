@@ -31,7 +31,7 @@ body {
 }
 #profile-container > img {
   height: 60px;
-  margin-right: 15px;
+  border-radius: 50%;
 }
 .main {
   height: calc(100vh - 80px);
@@ -73,14 +73,14 @@ body {
 #tile-container {
   margin-bottom: 15px;
 }
-.title {
+.tile {
   height: 200px;
 }
-.title h2,
-.title h3 {
+.tile h2,
+.tile h3 {
   color: white;
 }
-.title,
+.tile,
 .circle,
 .chart {
   width: calc((100%) / 4);
@@ -98,7 +98,7 @@ body {
 }
 #tile-container > div,
 #circle-container > div {
-  margin: right 15px;
+  margin-right: 15px;
 }
 #tile-container > div:last-child,
 #circle-container > div:last-child {
