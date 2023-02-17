@@ -14,8 +14,8 @@ assignments from betasquirrel
 
 - `cd` - change current directory. Ex: `cd Desktop`, `cd ..`
 - `ls` -list content of a directory, Ex: `ls -a` lists hidden files as well.
-- `pwd` display current working directory path
-- `cat` display content of a file. Ex: `cat README.md`
+- `pwd` -display current working directory path
+- `cat` -display content of a file. Ex: `cat README.md`
 
 ## Git Commands
 
