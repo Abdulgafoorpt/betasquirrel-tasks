@@ -8,6 +8,7 @@ assignments from betasquirrel
 | ----------------------------- | -------------------------------- |
 | ![Task 1](images/task-1.jpeg) | ![Task 1](screenshot/task-1.png) |
 | ![Task 2](images/task-2.jpeg) | ![Task 2](screenshot/task-2.png) |
+| ![task 4](images/task-4.jpg)  | ![task 4](screenshot/task-4.png) |
 
 ## linux Commands
 
