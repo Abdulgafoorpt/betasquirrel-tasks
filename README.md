@@ -27,47 +27,47 @@ assignments from betasquirrel
 
 - [html](https://www.w3schools.com/html/default.asp)
 
--[introduction](https://www.w3schools.com/html/html_intro.asp)
+- [introduction](https://www.w3schools.com/html/html_intro.asp)
 
--[editors](https://www.w3schools.com/html/html_editors.asp)
+- [editors](https://www.w3schools.com/html/html_editors.asp)
 
--[basic](https://www.w3schools.com/html/html_basic.asp)
+- [basic](https://www.w3schools.com/html/html_basic.asp)
 
--[elements](https://www.w3schools.com/html/html_elements.asp)
+- [elements](https://www.w3schools.com/html/html_elements.asp)
 
--[attributes](https://www.w3schools.com/html/html_attributes.asp)
+- [attributes](https://www.w3schools.com/html/html_attributes.asp)
 
--[headings](https://www.w3schools.com/html/html_headings.asp)
+- [headings](https://www.w3schools.com/html/html_headings.asp)
 
--[paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)
+- [paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)
 
--[styles](https://www.w3schools.com/html/html_styles.asp)
+- [styles](https://www.w3schools.com/html/html_styles.asp)
 
--[formatting](https://www.w3schools.com/html/html_formatting.asp)
+- [formatting](https://www.w3schools.com/html/html_formatting.asp)
 
--[quotations](https://www.w3schools.com/html/html_quotation_elements.asp)
+- [quotations](https://www.w3schools.com/html/html_quotation_elements.asp)
 
--[comments](https://www.w3schools.com/html/html_comments.asp)
+- [comments](https://www.w3schools.com/html/html_comments.asp)
 
--[colors](https://www.w3schools.com/html/html_colors.asp)
+- [colors](https://www.w3schools.com/html/html_colors.asp)
 
--[css](https://www.w3schools.com/html/html_css.asp)
+- [css](https://www.w3schools.com/html/html_css.asp)
 
--[links](https://www.w3schools.com/html/html_links.asp)
+- [links](https://www.w3schools.com/html/html_links.asp)
 
--[images](https://www.w3schools.com/html/html_images.asp)
+- [images](https://www.w3schools.com/html/html_images.asp)
 
--[favicon](https://www.w3schools.com/html/html_favicon.asp)
+- [favicon](https://www.w3schools.com/html/html_favicon.asp)
 
--[tables](https://www.w3schools.com/html/html_tables.asp)
+- [tables](https://www.w3schools.com/html/html_tables.asp)
 
--[list](https://www.w3schools.com/html/html_lists.asp)
+- [list](https://www.w3schools.com/html/html_lists.asp)
 
--[block&inline](https://www.w3schools.com/html/html_blocks.asp)
+- [block&inline](https://www.w3schools.com/html/html_blocks.asp)
 
--[classes](https://www.w3schools.com/html/html_classes.asp)
+- [classes](https://www.w3schools.com/html/html_classes.asp)
 
--[id](https://www.w3schools.com/html/html_id.asp)
+- [id](https://www.w3schools.com/html/html_id.asp)
 
 ## Demo
 
