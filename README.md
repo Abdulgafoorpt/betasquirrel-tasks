@@ -74,3 +74,5 @@ assignments from betasquirrel
 - [Stack-overflow](https://stackoverflow.com/users/21198561/gafoor-tharuvanna)
 
 - [Linkedin](https://www.linkedin.com/in/gafoor-tharuvanna-7526b825b/)
+
+- [live ](https://abdulgafoorpt.github.io/betasquirrel-tasks/)
