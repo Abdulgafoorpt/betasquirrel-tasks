@@ -6,24 +6,23 @@ body {
   background-color: purple;
   height: 80px;
   margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
 }
 #min-container {
   background-color: #d1d8e8;
-  height: 250px;
+  height: 300px;
   margin-bottom: 15px;
 }
 .boxes {
   background-color: #d1d8e8;
   height: 250px;
-  width: 31%;
+  width: calc((100vw / 3) - 35px);
   float: left;
   margin-bottom: 15px;
 }
 .m-r {
   margin-right: 15px;
-}
-.m-l {
-  margin-left: 5px;
 }
 div {
   padding: 10px;
@@ -33,12 +32,16 @@ div {
 }
 .left {
   float: left;
+  display: flex;
 }
 .right {
   float: right;
+  display: flex;
+  align-self: center;
 }
 .left img {
   height: 60px;
+  padding: 15px;
 }
 .left h2 {
   display: inline;
@@ -46,4 +49,26 @@ div {
 }
 .right a {
   color: #fff;
+}
+@media only screen and (max-width: 650px) {
+  .right a {
+    display: n one;
+  }
+  .boxes {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  } 
+@media only screen and (max-width: 900px) and (min-width: 651px) {
+  .first {
+    width: 100%;
+    margin: bottom: 15px;
+  }
+  .second,
+  .third {
+    width: calc((100vw - 60px) / 2);
+  }
+  .third {
+    margin-right: 0;
+  }  
 }
