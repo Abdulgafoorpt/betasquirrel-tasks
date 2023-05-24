@@ -25,6 +25,8 @@ assignments from betasquirrel
 4. `git commit` commit changes to git. Ex: `git commit -m "Initial commit"`
 5. `git push` push your local commits to remote repo. Ex: `git push origin main`
 
+## Learning Tasks
+
 - [html](https://www.w3schools.com/html/default.asp)
 
 - [introduction](https://www.w3schools.com/html/html_intro.asp)
